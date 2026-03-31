@@ -1,3 +1,13 @@
+/** Project: Lab4 Pizza
+ * Purpose Details: This program sends and receives Pizza objects using RabbitMQ and Web Services
+ * Course: IST 242
+ * Author: Jason Mathew
+ * Date Developed: 3/28/26
+ * Last Date Changed: 3/31/26
+ * Rev: 1.0
+
+ */
+
 package main;
 
 import com.google.gson.Gson;
